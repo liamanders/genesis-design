@@ -28,15 +28,18 @@ section {
     display: grid;
     justify-content: end;
     margin-right: 5rem;
+
+    & .s-line {
+        border: solid 1px;
+        max-width: 2rem;
+     }
 }
 .quote {
     font-style: italic;
+    padding-top: 0px; 
 }
 
-.s-line {
-    border: solid 1px;
-    max-width: 2rem;
- }
+
 
 
 img {

@@ -1,0 +1,11 @@
+.contact-container {
+  display: flex;
+}
+
+.contact-info {
+  max-width: 40%;
+}
+.contact-info h1 {
+  font-size: 40px;
+}
+/*# sourceMappingURL=contact.css.map */
